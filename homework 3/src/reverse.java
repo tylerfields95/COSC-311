@@ -1,6 +1,6 @@
 /**
- * Tyler Fields
- *
+ *Tyler Fields
+ *https://github.com/tylerfields95/COSC-311
  *COSC 311
  *HW 09/21
  *Fall 2016
